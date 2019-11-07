@@ -1,0 +1,427 @@
+Preset = {
+	Settings = {
+		Base = {
+			AnamorphosisActive = false,
+			AnamorphosisHorizontal = 100,
+			AnamorphosisRadial = 150,
+			AnamorphosisType = "Spherical",
+			AnamorphosisVertical = 0,
+			ChannelMixerActive = false,
+			ChannelMixerBlue = 0,
+			ChannelMixerCyan = 0,
+			ChannelMixerGreen = 0,
+			ChannelMixerMagenta = 0,
+			ChannelMixerRed = 0,
+			ChannelMixerYellow = 0,
+			EdgeTextureID = "fuitelum1",
+			EdgeTexturingActive = false,
+			EdgeTexturingApplyToning = false,
+			EdgeTexturingOpacity = 0.5,
+			EdgeTexturingPosition = "Random",
+			EdgeTexturingSeed = 0,
+			FrameID = "1",
+			FramingActive = false,
+			FramingApplyToning = false,
+			FramingOutside = false,
+			FramingScaleFactor = 0.25,
+			FramingSeed = 0,
+			GrainActive = true,
+			GrainFilmFormat = "24x36",
+			GrainIntensity = 100,
+			GrainSize = 1,
+			GrainSizeAuto = false,
+			GrainType = "KodakTriX400",
+			HLRActive = true,
+			HSLActive = true,
+			HSLHueSlices = {
+				{
+				FadeInEnd = 340,
+				FadeInStart = 325,
+				FadeOutEnd = 26,
+				FadeOutStart = 9,
+				Hue = 0,
+				Label = "Red",
+				Luminance = 0,
+				Saturation = 0,
+				Uniformity = 0,
+				},
+				{
+				FadeInEnd = 26,
+				FadeInStart = 9,
+				FadeOutEnd = 47,
+				FadeOutStart = 37,
+				Hue = 0,
+				Label = "Orange",
+				Luminance = 0,
+				Saturation = 0,
+				Uniformity = 0,
+				},
+				{
+				FadeInEnd = 47,
+				FadeInStart = 37,
+				FadeOutEnd = 62,
+				FadeOutStart = 52,
+				Hue = 0,
+				Label = "Yellow",
+				Luminance = 0,
+				Saturation = 0,
+				Uniformity = 0,
+				},
+				{
+				FadeInEnd = 62,
+				FadeInStart = 52,
+				FadeOutEnd = 170,
+				FadeOutStart = 150,
+				Hue = 0,
+				Label = "Green",
+				Luminance = 0,
+				Saturation = 0,
+				Uniformity = 0,
+				},
+				{
+				FadeInEnd = 170,
+				FadeInStart = 150,
+				FadeOutEnd = 210,
+				FadeOutStart = 195,
+				Hue = 0,
+				Label = "Cyan",
+				Luminance = 0,
+				Saturation = 0,
+				Uniformity = 0,
+				},
+				{
+				FadeInEnd = 210,
+				FadeInStart = 195,
+				FadeOutEnd = 268,
+				FadeOutStart = 245,
+				Hue = 0,
+				Label = "Blue",
+				Luminance = -49.892488532110093,
+				Saturation = 0,
+				Uniformity = 0,
+				},
+				{
+				FadeInEnd = 268,
+				FadeInStart = 245,
+				FadeOutEnd = 300,
+				FadeOutStart = 280,
+				Hue = 0,
+				Label = "Purple",
+				Luminance = 0,
+				Saturation = 0,
+				Uniformity = 0,
+				},
+				{
+				FadeInEnd = 300,
+				FadeInStart = 280,
+				FadeOutEnd = 340,
+				FadeOutStart = 325,
+				Hue = 0,
+				Label = "Magenta",
+				Luminance = 0,
+				Saturation = 0,
+				Uniformity = 0,
+				},
+			},
+			HSLMaster = {
+				Hue = 0,
+				Saturation = -100,
+			},
+			HighlightToningDisableDesaturation = true,
+			KeystoningActive = false,
+			KeystoningAutoMode = "Full",
+			KeystoningBlendingIntensity = 100,
+			KeystoningHVRatio = 0,
+			KeystoningKeepCenter = true,
+			KeystoningKeepOriginalSize = false,
+			KeystoningLeftRight = 0,
+			KeystoningMode = "Auto",
+			KeystoningPoints = {
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+			},
+			KeystoningUpDown = 0,
+			LocalParameters = {
+				{
+				Corrections = {
+					ExposureBias = -0.6747685185185186,
+				},
+				Geometry = {
+					FullCorrectionPoint = {
+						0.51403182744979858,
+						0.78665202856063843,
+					},
+					NoCorrectionPoint = {
+						0.51676380634307861,
+						0.63412386178970337,
+					},
+					Type = "AxialGradient",
+				},
+				Id = "B17AAFDB-32EC-424A-A350-6D1234BDA432",
+				Options = {
+					Disabled = false,
+					Opacity = 100,
+				},
+				},
+				{
+				Corrections = {
+					ExposureBias = -0.66059027777777768,
+				},
+				Geometry = {
+					FullCorrectionPoint = {
+						0.53641432523727417,
+						0.24978330731391907,
+					},
+					NoCorrectionPoint = {
+						0.53361612558364868,
+						0.44734001159667969,
+					},
+					Type = "AxialGradient",
+				},
+				Id = "0940805B-B1F6-43C7-A648-76CDF600C224",
+				Options = {
+					Disabled = false,
+					Opacity = 100,
+				},
+				},
+				{
+				Corrections = {
+					ExposureBias = -0.65943287037037024,
+				},
+				Geometry = {
+					FullCorrectionPoint = {
+						0.5359344482421875,
+						0.11875451356172562,
+					},
+					NoCorrectionPoint = {
+						0.53495633602142334,
+						0.21860632300376892,
+					},
+					Type = "AxialGradient",
+				},
+				Id = "957A057A-6CEC-4D51-9044-AEC055EB5514",
+				Options = {
+					Disabled = false,
+					Opacity = 100,
+				},
+				},
+				{
+				Corrections = {
+					ExposureBias = 0.49999999999999994,
+				},
+				Geometry = {
+					NegativeControlPoints = {
+					},
+					PositiveControlPoints = {
+						{
+						Center = {
+							0.18436135351657867,
+							0.57132309675216675,
+						},
+						Radius = 639.33969609236556,
+						},
+					},
+					Type = "ControlPoint",
+				},
+				Id = "4F27C975-1A8B-4981-9CAF-C419C11EC266",
+				Options = {
+					Disabled = false,
+					Opacity = 100,
+				},
+				},
+				{
+				Corrections = {
+					ExposureBias = 0.49999999999999994,
+				},
+				Geometry = {
+					NegativeControlPoints = {
+					},
+					PositiveControlPoints = {
+						{
+						Center = {
+							0.5055469274520874,
+							0.69188964366912842,
+						},
+						Radius = 639.33969609236556,
+						},
+					},
+					Type = "ControlPoint",
+				},
+				Id = "5787EFCE-B051-41D8-950E-D3D1682E1D62",
+				Options = {
+					Disabled = false,
+					Opacity = 100,
+				},
+				},
+				{
+				Corrections = {
+					ExposureBias = 0.49999999999999994,
+				},
+				Geometry = {
+					NegativeControlPoints = {
+					},
+					PositiveControlPoints = {
+						{
+						Center = {
+							0.85695260763168335,
+							0.69814252853393555,
+						},
+						Radius = 639.33969609236556,
+						},
+					},
+					Type = "ControlPoint",
+				},
+				Id = "1379BC34-B17C-47BF-A181-C1669492A324",
+				Options = {
+					Disabled = false,
+					Opacity = 100,
+				},
+				},
+				{
+				Corrections = {
+					ExposureBias = 0.49999999999999994,
+				},
+				Geometry = {
+					NegativeControlPoints = {
+					},
+					PositiveControlPoints = {
+						{
+						Center = {
+							0.70001041889190674,
+							0.41105452179908752,
+						},
+						Radius = 639.33969609236556,
+						},
+					},
+					Type = "ControlPoint",
+				},
+				Id = "2E67FFA7-7438-4835-A299-28CAF30E1181",
+				Options = {
+					Disabled = false,
+					Opacity = 100,
+				},
+				},
+				{
+				Corrections = {
+					ExposureBias = 0.49999999999999994,
+				},
+				Geometry = {
+					NegativeControlPoints = {
+					},
+					PositiveControlPoints = {
+						{
+						Center = {
+							0.3247990608215332,
+							0.39113810658454895,
+						},
+						Radius = 639.33969609236556,
+						},
+					},
+					Type = "ControlPoint",
+				},
+				Id = "E81BC24F-83A5-4286-946A-6E347F8D536C",
+				Options = {
+					Disabled = false,
+					Opacity = 100,
+				},
+				},
+			},
+			LocalParametersActive = true,
+			LowlightToningDisableDesaturation = true,
+			MultiPointColorBalanceActive = false,
+			MultiPointColorBalanceIntensity = 100,
+			MultiPointColorBalancePoints = {
+			},
+			MultiPointColorBalancePreserveWB = true,
+			NoiseRemoveMoireActive = false,
+			NoiseRemoveMoireAuto = true,
+			NoiseRemoveMoireIntensity = 0,
+			OPTiltShiftShouldSynchronizeIntensities = true,
+			OPTiltShiftShouldSynchronizeLines = true,
+			OutputImageMaxSize = 300,
+			TextureID = "grain4b",
+			TexturingActive = false,
+			TexturingApplyToning = false,
+			TexturingOpacity = 0.5,
+			TexturingSeed = 0,
+			TiltShiftActive = 0,
+			TiltShiftBlurShapeID = "Circular_medium",
+			TiltShiftGradient1 = {
+				BlurRadius = 40,
+				FullCorrectionPoint = {
+					0.5,
+					0.90000000000000002,
+				},
+				NoCorrectionPoint = {
+					0.5,
+					0.69999999999999996,
+				},
+			},
+			TiltShiftGradient2 = {
+				BlurRadius = 40,
+				FullCorrectionPoint = {
+					0.5,
+					0.10000000000000001,
+				},
+				NoCorrectionPoint = {
+					0.5,
+					0.29999999999999999,
+				},
+			},
+			ToneCurveActive = true,
+			ToneCurveBlueGamma = 1,
+			ToneCurveBluePoints = {
+				0,
+				0,
+				1,
+				1,
+			},
+			ToneCurveGreenGamma = 1,
+			ToneCurveGreenPoints = {
+				0,
+				0,
+				1,
+				1,
+			},
+			ToneCurveMasterGamma = 1,
+			ToneCurveMasterPoints = {
+				0,
+				0,
+				0.25,
+				0.25,
+				0.75,
+				0.85,
+				1,
+				1,
+			},
+			ToneCurveRedGamma = 1,
+			ToneCurveRedPoints = {
+				0,
+				0,
+				1,
+				1,
+			},
+			VignettedBlurActive = false,
+			VignettedBlurBlendFactor = 100,
+			VignettedBlurCenterPoint = {
+				0.5,
+				0.5,
+			},
+			VignettedBlurMode = "Vignetting",
+			VignettedBlurRadius = 0,
+			VignettedBlurRoundness = 50,
+			VignettedBlurTransition = 50,
+			VignettedBlurVignetteSize = 100,
+			WhiteBalanceRawColor = {
+			},
+		},
+		Version = "14.0",
+	},
+	Version = "14.0",
+}
