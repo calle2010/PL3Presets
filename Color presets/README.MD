@@ -13,3 +13,20 @@ This may be applicable to landscape and still life.
   - DxO ClearView
   - Color accentuation
   - Tone curve
+
+# Bleach Bypass
+
+A partial preset for washed out colors and strong contrasts.
+The preset could be applied to street photography and similar.
+
+- Preset Type: Partial
+
+- Requires: 
+  - DxO PhotoLab 3 Elite
+  - FilmPack 5 Essential
+
+- Included Tools:
+  - Contrast: Micro-contrast Auto
+  - Color accentuation
+  - Tone curve
+  - Grain
