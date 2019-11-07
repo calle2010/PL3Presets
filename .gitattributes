@@ -1,0 +1,6 @@
+*           text=auto
+*.MD        text
+*.preset    text
+*.png       binary
+*.jpg       binary
+*.jpeg      binary
