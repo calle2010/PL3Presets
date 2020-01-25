@@ -1,5 +1,7 @@
 # Airy
 
+WORK IN PROGRESS
+
 This preset softens the image and colors and fade to white add the edges.
 This may be applicable to high key image of people or still life.
 
@@ -17,4 +19,4 @@ This may be applicable to high key image of people or still life.
   - Color accentuation
   - Unsharp Mask
   - Tone curve
-  - Creative vignetting
+  - Creative vignetting (FP)
