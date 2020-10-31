@@ -1,3 +1,19 @@
+# Autumn Colors
+
+A partial preset to improve autumn colors. It works by spreading
+the color hues between green and orange using the HSL tool.
+The effect of the strength can be controlled by the HSL Uniformity
+slider: -50 is used in the preset. -25 would be 
+a subtle effect while -75 would be a very strong effect.
+
+- Preset Type: Partial
+
+- Requires: 
+  - DxO PhotoLab 3 Elite
+
+- Included Tools:
+  - HSL
+
 # Bleach Bypass
 
 A partial preset for washed out colors and strong contrasts.
